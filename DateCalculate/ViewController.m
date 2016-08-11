@@ -23,7 +23,7 @@
     //    [self calcula];
 }
 
-//TEST
+//git test
 - (void)createDatePickerView {
     _datePicker1 = [[UIDatePicker alloc] initWithFrame:CGRectMake(0, 40, 320, 100)];
     _datePicker1.datePickerMode = UIDatePickerModeDateAndTime;
